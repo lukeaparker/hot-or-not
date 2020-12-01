@@ -1,0 +1,23 @@
+{
+  "name": "hot-or-not",
+  "version": "1.0.0",
+  "description": "Determines if if a string is equal to ‘hot’, if so it will return true, otherwise it will return false.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeaparker/hot-or-not.git"
+  },
+  "keywords": [
+    "hot",
+    "not"
+  ],
+  "author": "Luke Parker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukeaparker/hot-or-not/issues"
+  },
+  "homepage": "https://github.com/lukeaparker/hot-or-not#readme"
+}
